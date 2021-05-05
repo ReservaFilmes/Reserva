@@ -1,4 +1,4 @@
-### https://reservafilmes.github.io/Reservafilmes/
+### https://reservafilmes.github.io/Reserva/
 
 <!--
 **ReservaFilmes/Reservafilmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
